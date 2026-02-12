@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "PRACTICE",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-12T16:13:49.788531Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Practice",
+      "artist": "陳綺貞",
+      "has_synced": true,
+      "path": "select/01_A_Practice_陳綺貞.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Practice",
+      "artist": "陈绮贞",
+      "has_synced": true,
+      "path": "select/02_A_Practice_陈绮贞.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Practice",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/03_Practice_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Practice",
+      "artist": "Pi’erre Bourne",
+      "has_synced": false,
+      "path": "select/04_Practice_Pi’erre_Bourne.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Alice Practice",
+      "artist": "Crystal Castles",
+      "has_synced": true,
+      "path": "select/05_Alice_Practice_Crystal_Castles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PRACTICE",
+      "artist": "DaBaby",
+      "has_synced": true,
+      "path": "select/06_PRACTICE_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mid Practice",
+      "artist": "Helena Deland",
+      "has_synced": true,
+      "path": "select/07_Mid_Practice_Helena_Deland.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Target Practice",
+      "artist": "Henry’s Dress",
+      "has_synced": false,
+      "path": "select/08_Target_Practice_Henry’s_Dress.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Target Practice",
+      "artist": "Henry's Dress",
+      "has_synced": false,
+      "path": "select/09_Target_Practice_Henry's_Dress.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blackest Magick in Practice",
+      "artist": "Cradle of Filth",
+      "has_synced": false,
+      "path": "select/10_Blackest_Magick_in_Practice_Cradle_of_Filth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Practice What You Preach",
+      "artist": "Napalm Death",
+      "has_synced": false,
+      "path": "select/11_Practice_What_You_Preach_Napalm_Death.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Practice",
+      "artist": "Princess Nokia",
+      "has_synced": true,
+      "path": "select/12_Practice_Princess_Nokia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Practice Suicide",
+      "artist": "Pungent Stench",
+      "has_synced": false,
+      "path": "select/13_Practice_Suicide_Pungent_Stench.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Practice What You Preach",
+      "artist": "Testament",
+      "has_synced": true,
+      "path": "select/14_Practice_What_You_Preach_Testament.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Practice Of Love",
+      "artist": "Jenny Hval feat. Laura Jean & Vivian Wang",
+      "has_synced": false,
+      "path": "select/15_The_Practice_Of_Love_Jenny_Hval_feat._Laura_Jean_&_Vivian_Wang.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PRACTICE",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_PRACTICE_KMNZ.txt"
+    }
+  ]
+}
